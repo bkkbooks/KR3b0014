@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 右何博士備論二十八篇今缺二篇而符秦論頗有脫誤又編寫失次未得善本校之宋世士大夫憤於功之不競而喜論兵如此熙寧間徐僖蕭注熊本沈起之徒用之而輒敗天子尋以為悔元符政和開邊之議復起馴致國亡嗚呼兵豈易言哉歸震川先生題詞庚寅四月二日録于貞復堂
-  hash: sha256:515d7457f5083db223119192cd5bf337133798a381a5fadeba94a1dd1a50a7ba
+  text: 右何博士備論二十八篇今缺二篇而符秦論頗有脱悞又編寫失次未得善本校之宋世士大夫憤於功之不競而喜論兵如此熈寧間徐僖蕭注熊本沈起之徒用之而輒敗天子㝷以為悔元符政和開邊之議復起馴致國亡嗚呼兵豈易言哉歸震川先生題詞庚寅四月二日錄于貞復堂
+  hash: sha256:9dbef8d3801d06a9db6c43ad7b29d276a2f484aebb3db2157265c9e90205c686
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3b0014_WYG_003-1a, image: WYG0727/WYG0727-0174a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3b0014/KR3b0014_003.txt
-hash: sha256:335fa8faa50414ee52bfb22b0c44194bb4096b4dec6b8f39e2202b7f2d533fa1
+hash: sha256:23913921cb1374369b34ebc69bf965b7651c1bd1b096c77df518c37d436cf67f
